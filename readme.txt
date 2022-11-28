@@ -1,3 +1,5 @@
+THIS REPOSITORY IS NOT COMPLETE. AFTER I PUBLISH THIS WORK I WILL COMPLETE THE GITHUB PAGE with figures and data.
+
 This folder contains everything you need to test the performance of UNIL through comparative statistics with the ground truth simulation.
 
 OF_PT_sim_master2.m is the simulation file. If you'd like to play around with different simulations, you will need to import some velocity vector data (here I use OpenFOAM)
